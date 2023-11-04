@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enes Zeren</h1>
-<h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
+<h1 align="center">Hi 👋, I'm Dilara Sedef</h1>
+<h3 align="center">I called myself a Full stack developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in for my personal projects.</h3>
 <div><br><br></div>
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
@@ -10,16 +10,16 @@
 
 - 💬 Ask me about **.Net Core , C#**
 
-- 📫 How to reach me **zerenenes18@gmail.com**
+- 📫 How to reach me **dilarasedef9@gmail.com**
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/enes-zeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="mailto:zerenenes18@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
-<a href="https://instagram.com/z.enes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilara-sedef-486873266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="mailto:dilarasedef9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
+
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,5 +53,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerenenes18&show_icons=true&locale=en&layout=compact" alt="zerenenes18" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerenenes18&label=Profile%20views&color=0e75b6&style=flat" alt="zerenenes18" /> </p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilarasedef&show_icons=true&locale=en&layout=compact" alt="dilarasedef" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilarasedef&label=Profile%20views&color=0e75b6&style=flat" alt="dilarasedef" /> </p>
